@@ -1,3 +1,4 @@
+#THE CONTROLLER LAYER SHOULDN'T TAKE ANY INPUT
 '''
 This module controlls everything in the app
 '''
